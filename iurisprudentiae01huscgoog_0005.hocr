@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iurisprudentiae01huscgoog_0005.png"; bbox 0 0 2542 3909; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 198 1476 971 1579">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 198 1476 971 1579">
+     <span class='ocr_line' id='line_1_1' title="bbox 198 1476 971 1579; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 198 1476 206 1493; x_wconf 58' lang='lat'><em>⁶</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 338 1496 460 1579; x_wconf 82' lang='lat' dir='ltr'><strong>1le</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 473 1495 891 1579; x_wconf 78' lang='lat' dir='ltr'><strong>SPRVDENTIAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 967 1540 971 1548; x_wconf 45' lang='lat'>²</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 145 1796 1079 1909">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 145 1796 1079 1909">
+     <span class='ocr_line' id='line_1_2' title="bbox 145 1796 1079 1909; baseline 0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 145 1796 1079 1909; x_wconf 77' lang='lat' dir='ltr'><strong>ANTEIVSTINIANAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 346 2128 880 2253">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 346 2128 880 2253">
+     <span class='ocr_line' id='line_1_3' title="bbox 346 2128 880 2253; baseline 0.006 -45"><span class='ocrx_word' id='word_1_6' title='bbox 346 2128 494 2228; x_wconf 77' lang='lat' dir='ltr'><strong>QVAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 529 2129 880 2253; x_wconf 49' lang='lat' dir='ltr'>SVPERSVNT:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1276 3909">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1276 3909">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1276 3909; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1276 3909; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
